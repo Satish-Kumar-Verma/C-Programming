@@ -1,0 +1,56 @@
+							Homework - 2
+
+No.1 : C program to find out whether a given year is a leap year or not:
+       year % 4   == 0 : Leap year (if the year doesn't end with 00)
+       year % 400 == 0 : Leap year
+
+
+
+
+No.2 : Check whether the triangle is equilateral, scalene, or isosceles
+
+
+
+
+No.3 : C program to check whether a character is an alphabet or not
+       (input >= a and input z) (input >= A and input <= Z)
+
+
+
+
+No.4 : C program to check vowel or consonant (vowels = A, E, I, O, U)
+
+
+
+
+No.5 : C program to convert from centimeter to inch (vice versa)
+
+
+
+
+No.6 :  Write a C program to read the age of a candidate and determine whether it is eligible for casting his/her own vote. 
+
+
+
+
+No.7 : Write a C program to accept a coordinate point in a XY coordinate system and determine in which quadrant the coordinate point lies.
+
+
+
+
+No.8 : Write a C program to read the value of an integer m and display the value of n is 1 when m is larger than 0, 0 when m is 0 and -1 when m is less than 0. 
+
+
+
+
+No.9 : Write a C program to print the payment of the electricity bill.
+       input - meter reading in KWh
+       1 unit of electricity = 75 kyats
+
+
+No.10: Write a program in C to read any day number in integer and display day name in the word.
+       Days of the week (Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday)
+
+
+
+

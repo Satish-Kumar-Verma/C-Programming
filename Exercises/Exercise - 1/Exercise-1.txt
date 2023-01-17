@@ -1,0 +1,43 @@
+
+							Homework - 1
+
+AND = &&
+OR  = ||
+
+No.1 : Check valid triangle (with angles)
+       - accept all the angles
+
+
+
+
+No.2 : Check valid triangle (with sides)
+       - accept all the sides
+       - Valid if (a + b > c) and (a + c > b) and (b + c > a)
+
+
+
+
+No.3 : Check the sign of a given number
+       - accept a non-zero integer as input
+
+
+
+
+No.4 : Check if the number is even or odd
+       - accept a non-zero integer as input
+
+
+
+
+No.5 : C program to enter student marks and find percentage and grade
+
+Step 1 : Accept the marks of each subject of the student (6 subjects)
+Step 2 : Calculate the percentage (percentage = (marks/total marks) * 100) (total marks = 600)
+Step 3 : Find the grade according to the percentage
+
+1. Below 25 – F (p < 25)
+2. 25 to 45 – E (p >= 25 and p < 45)
+3. 45 to 50 – D (p >= 45 and p < 50)
+4. 50 to 60 – C
+5. 60 to 80 – B
+6. Above 80 – A

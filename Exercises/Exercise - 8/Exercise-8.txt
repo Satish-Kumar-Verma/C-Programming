@@ -1,0 +1,54 @@
+							Homework - 8 (Practice Section)
+
+
+No.1	: Write a program in C to read n number of values in an array and display it in reverse order.
+
+
+
+
+No.2	: Write a program in C to copy the elements of one array into another array and print them both.
+
+
+
+
+No.3	: Write a program in C to count a total number of duplicate elements in an array.
+
+
+
+
+No.4	: Write a program in C to print all unique elements in an array.
+
+
+
+
+No.5	: Write a program in C to count the frequency of each element of an array.
+
+
+
+
+No.6	: Write a program in C to find the maximum and minimum element in an array.
+
+
+
+
+No.7	: Write a program in C to separate odd and even integers in separate arrays.
+
+
+
+
+No.8	: Write a program in C to sort elements of array in ascending order.
+
+
+
+
+No.9	: Write a program in C to sort elements of the array in descending order.
+
+
+
+
+No.10	: Write a program in C to insert New value in the array (sorted list).
+	  Step 1 : accept an array as input
+	  Step 2 : print them in ascending order
+	  Step 3 : ask for an integer input and insert it into the array
+	  Step 4 : print the array in ascending order (sorted)
+

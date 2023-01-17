@@ -1,0 +1,9 @@
+							Homework - 4
+
+
+No.1 : Write a C program to check if the input character is a vowel or consonant. // Validate input (input must be an alphabet.)
+
+
+
+
+No.2 : Write a C program to print multiplication table of any number. 

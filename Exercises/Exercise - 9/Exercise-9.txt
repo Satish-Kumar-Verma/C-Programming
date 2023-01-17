@@ -1,0 +1,25 @@
+							Homework - 9
+
+
+No.1	: Write a C program which accepts a matrix and checks if it is an identity matrix or not.
+
+
+
+
+No.2	: Write a C program which accepts a matrix and prints its determinant.
+
+
+
+
+No.3	: Write a C program which accepts a matrix and prints the transpose of that matrix.
+
+
+
+
+No.4	: Write a C program which takes the complete information about a person and print it in the end. (User-defined data type)
+
+
+
+
+No.5	: Write a C program which takes the complete information about 5 people and print them in ascending order (with age).
+
